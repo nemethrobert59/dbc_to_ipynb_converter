@@ -1,0 +1,9 @@
+# Standard libraries, included in Python's standard distribution
+zipfile; python_version >= '3.0'
+os; python_version >= '3.0'
+codecs; python_version >= '3.0'
+json; python_version >= '3.0'
+re; python_version >= '3.0'
+
+# Third-party libraries
+nbformat 5.3.0
